@@ -23,4 +23,5 @@ SIAPSEN adalah aplikasi yang memungkinkan pengguna untuk melakukan absensi atau 
 •	https://pendidikan-ti.ft.unesa.ac.id/ 
 
 # Poster
-![image](https://github.com/yudhabima/SIAPSEN/assets/144974391/6748bd5d-74cb-44ab-a4e2-046d24d86b27)
+![286988387-6748bd5d-74cb-44ab-a4e2-046d24d86b27](https://github.com/nurkholiswakhid/siapsen-app/assets/125814325/116399a1-c52a-4ec6-ac6c-ce7e000dcf1e)
+
